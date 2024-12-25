@@ -1,1 +1,0 @@
-Copy the content of this module in pearl-theme-installation directory
