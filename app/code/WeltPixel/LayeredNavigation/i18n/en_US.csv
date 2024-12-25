@@ -1,0 +1,95 @@
+"For more settings on attribute level, go to
+                    <strong>Stores -> Attributes -> Product -> [select desired attribute from grid] ->
+                    Storefront Properties -> WeltPixel Layered Navigation Properties</strong>
+                     section.","For more settings on attribute level, go to
+                    <strong>Stores -> Attributes -> Product -> [select desired attribute from grid] ->
+                    Storefront Properties -> WeltPixel Layered Navigation Properties</strong>
+                     section."
+"%1 and above","%1 and above"
+"%1 - %2","%1 - %2"
+"Something went wrong, check and test your Search Engine configurations, reindex catalog and clear cache. Thrown error: %1","Something went wrong, check and test your Search Engine configurations, reindex catalog and clear cache. Thrown error: %1"
+"Bucket does not exist","Bucket does not exist"
+"WeltPixel Layered Navigation Properties","WeltPixel Layered Navigation Properties"
+Closed,Closed
+"Fully Opened","Fully Opened"
+Expandable,Expandable
+"Show Attribute Options as","Show Attribute Options as"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
+"[Closed] option not applicable on [Slide Down] Sidebar Style.","[Closed] option not applicable on [Slide Down] Sidebar Style."
+"Initial Number of Visible Options","Initial Number of Visible Options"
+"The number of attribute option(s) that will be initially visible. Can be used only with Show Attribute Options as - Expandable.","The number of attribute option(s) that will be initially visible. Can be used only with Show Attribute Options as - Expandable."
+"The number of attribute option(s) that will be initially visible. Can be used only with Show Attribute Options as - Expandable. %1","The number of attribute option(s) that will be initially visible. Can be used only with Show Attribute Options as - Expandable. %1"
+"Expandable items behaviour","Expandable items behaviour"
+All,All
+"Show 5 more","Show 5 more"
+"Show 10 more","Show 10 more"
+"Show 15 more","Show 15 more"
+"Select the number of attribute option(s) to show/hide when using Expand feature.<br> Can be used only with Show Attribute Options as - Expandable.","Select the number of attribute option(s) to show/hide when using Expand feature.<br> Can be used only with Show Attribute Options as - Expandable."
+"Select the number of attribute option(s) to show/hide when using Expand feature.<br> Can be used only with Show Attribute Options as - Expandable. %1","Select the number of attribute option(s) to show/hide when using Expand feature.<br> Can be used only with Show Attribute Options as - Expandable. %1"
+"Enable Multiselect","Enable Multiselect"
+No,No
+Yes,Yes
+"Allow to filter multiple options from the same attribute.","Allow to filter multiple options from the same attribute."
+"Show Item Counter","Show Item Counter"
+"Show item counter next to the current attribute options.","Show item counter next to the current attribute options."
+"Show item counter next to the current attribute options. %1","Show item counter next to the current attribute options. %1"
+"Sort By","Sort By"
+Position,Position
+Name,Name
+"Select the sorting of the current attribute options.","Select the sorting of the current attribute options."
+"Select the sorting of the current attribute options. %1","Select the sorting of the current attribute options. %1"
+"Enable options filter on Desktop","Enable options filter on Desktop"
+"Enable search functionality for attribute options on desktop.","Enable search functionality for attribute options on desktop."
+"Enable search functionality for attribute options on desktop. %1","Enable search functionality for attribute options on desktop. %1"
+"Enable options filter on Mobile","Enable options filter on Mobile"
+"Enable search functionality for attribute options on mobile.","Enable search functionality for attribute options on mobile."
+"Enable search functionality for attribute options on mobile. %1","Enable search functionality for attribute options on mobile. %1"
+"Category Visibility","Category Visibility"
+"Visible in all categories","Visible in all categories"
+"Visible only in the following categories","Visible only in the following categories"
+"Not visible in the following categories","Not visible in the following categories"
+"Select visibility behaviour in categories for the current attribute.","Select visibility behaviour in categories for the current attribute."
+"Select Categories","Select Categories"
+"Select categories.","Select categories."
+text,text
+"Search for options ...","Search for options ..."
+item,item
+items,items
+Price:,Price:
+Apply,Apply
+"Now Shopping by","Now Shopping by"
+Previous,Previous
+Remove,Remove
+"Remove This Item","Remove This Item"
+"Shop By","Shop By"
+"Clear All","Clear All"
+"Shopping Options","Shopping Options"
+"Show Filters","Show Filters"
+"Hide Filters","Hide Filters"
+"Layered Navigation Pro","Layered Navigation Pro"
+"General Settings","General Settings"
+"Enable Layered Navigation","Enable Layered Navigation"
+"Enable Ajax","Enable Ajax"
+"Sidebar Settings","Sidebar Settings"
+"Sidebar Style","Sidebar Style"
+"Columns No.","Columns No."
+"Filter Box Height","Filter Box Height"
+"Filter Column Height","Filter Column Height"
+"Allow customer to show/hide Layered Navigation","Allow customer to show/hide Layered Navigation"
+"Show Compare Products block","Show Compare Products block"
+"Show/Hide Compare Products block from Sidebar Style - Default.","Show/Hide Compare Products block from Sidebar Style - Default."
+"Show Wish List block","Show Wish List block"
+"Show/Hide Wish List block from Sidebar Style - Default.","Show/Hide Wish List block from Sidebar Style - Default."
+"Show Recently Ordered block","Show Recently Ordered block"
+"Show/Hide  Recently Ordered block from Sidebar Style - Default.","Show/Hide  Recently Ordered block from Sidebar Style - Default."
+"Show Category Filter","Show Category Filter"
+"Filter Button","Filter Button"
+"Price Filter","Price Filter"
+"Show Price Slider With Input","Show Price Slider With Input"
+"AutoClose Sidebar","AutoClose Sidebar"
+"Enable Rating Filter","Enable Rating Filter"
+"Rating Filter Name","Rating Filter Name"
+"Rating Filter Display Options","Rating Filter Display Options"
+"Rating Filter Position","Rating Filter Position"
+"Rating Filter Multiselect","Rating Filter Multiselect"
+"Show Rating Filter Counter","Show Rating Filter Counter"
